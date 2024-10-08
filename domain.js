@@ -1,6 +1,6 @@
-let pronoun = ['the', 'our'];
-let adj = ['great', 'big'];
-let noun = ['jogger', 'racoon'];
+let pronoun = ['the', 'our', 'his'. 'her', 'their', 'it'];
+let adj = ['great', 'big', 'small', 'fat', 'pretty', 'beautiful'];
+let noun = ['jogger', 'racoon', 'cat', 'king', 'princess', 'mermaid'];
 
 pronoun.forEach(articulo => {
     
